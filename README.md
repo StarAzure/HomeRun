@@ -1,4 +1,7 @@
 # HomeRun
+
+Demo - https://starazure.com/demo/#starazure_homerun
+
 The fastest Joomla theme on the planet - See proof - https://starazure.com/home/speed-comparison
 
 Makes Joomla Faster
